@@ -7,6 +7,6 @@ There is no code for this project since we used the course material and online t
 
 ---
 
-This repository includes:
+This repository contains:
 - Project report (.pdf file)
 - Cipher map (.pdf file)
