@@ -1,4 +1,4 @@
-# Caesar's Cipher Project for CRYPTOGRAPHY uni course
+# Caesar's Cipher Project
 
 In this project, we were given a map that contained three ciphers (bottom right, top center and middle left).
 Each text revealed information on how to decipher the next part, and the last cipher revealed a location.
